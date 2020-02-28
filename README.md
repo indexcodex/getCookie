@@ -3,7 +3,7 @@ this is a script from w3schools.com, all credits belong to w3schools.com
 
 link of the script: https://www.w3schools.com/js/js_cookies.asp
 
-// just feed the cookie name as parameter, and it will output the cookie value
+just feed the cookie name as parameter, and it will output the cookie value
 
 ```
 function getCookie(cname) {
