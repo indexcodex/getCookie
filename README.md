@@ -5,6 +5,7 @@ link of the script: https://www.w3schools.com/js/js_cookies.asp
 
 // just feed the cookie name as parameter, and it will output the cookie value
 
+```
 function getCookie(cname) {
     var name = cname + "=";
     var decodedCookie = decodeURIComponent(document.cookie);
@@ -20,3 +21,4 @@ function getCookie(cname) {
     }
     return "";
 }
+```
